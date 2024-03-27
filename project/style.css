@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+#center{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+}
+#center h3{
+    opacity: 0;
+}
+#progg{
+    height: 10px;
+    width: 300px;
+    background: #cbcbcb;
+    border-radius:100px ;
+}
+#pro{
+    height: 100%;
+    width: 0;
+    background: #000;
+    border-radius: 100px;
+    transition: all cubic-bezier(0.19, 1, 0.22, 1) 0.2s;
+}
