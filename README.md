@@ -22,9 +22,6 @@ To run this project locally, follow these steps:
 - `style.css`: Contains the CSS styling for the webpage.
 - `script.js`: Contains the JavaScript code for the animation.
 
-## Demo
-You can see a live demo of this project [here](link_to_live_demo).
-
 ## Credits
 This project is created by [Ravi Kumar Gupta].
 
